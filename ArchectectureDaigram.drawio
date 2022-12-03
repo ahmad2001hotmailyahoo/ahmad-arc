@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T06:31:21.452Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="c80iPMubqXLf0_DC2bgv" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T06:32:31.318Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NDP-F95jarmJ21iFcKww" version="20.6.0" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
-    <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -212,8 +212,18 @@
         <mxCell id="iHwCMbIsZpmqP9hue2eX-33" value="Activity detected : Standing" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="514.375" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHwCMbIsZpmqP9hue2eX-37" target="iHwCMbIsZpmqP9hue2eX-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iHwCMbIsZpmqP9hue2eX-37" value="text to speech conversion: Yes the person in standing&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="560.005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHwCMbIsZpmqP9hue2eX-39" target="iHwCMbIsZpmqP9hue2eX-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iHwCMbIsZpmqP9hue2eX-39" value="text to speech conversion: No the person in not standing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="629.995" width="120" height="60" as="geometry" />
@@ -246,6 +256,12 @@
             <mxPoint x="810" y="50" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-46" value="Audio Output: The person is standing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="329.995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-48" value="Audio Output: There is no person standing in front of you" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="629.995" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

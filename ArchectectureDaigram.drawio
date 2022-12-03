@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T06:20:50.574Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4_J-KbydXPsq3dSGv8DY" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T06:21:27.567Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="e90Hd68c6e-vqA8LREvf" version="20.6.0" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,8 +193,14 @@
         <mxCell id="iHwCMbIsZpmqP9hue2eX-15" value="if required accuracy acieved" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="252.5" width="150" height="107.5" as="geometry" />
         </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iHwCMbIsZpmqP9hue2eX-20" target="iHwCMbIsZpmqP9hue2eX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iHwCMbIsZpmqP9hue2eX-20" value="Apply Model Volvo V7" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="420" width="85" height="36.25" as="geometry" />
+        </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-33" value="Activity detected : Standing" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="514.375" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T05:32:19.807Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="xdbhv-7cakO3yYlz4EEd" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T05:33:04.597Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="vw0ELCjNOb0fEQCI5RxK" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,8 +115,21 @@
         <mxCell id="pqNPjAefA5oMINSB-AG9-42" value="&lt;b&gt;MOBILE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-46" target="pqNPjAefA5oMINSB-AG9-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-46" value="NLP Applied" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-52" target="pqNPjAefA5oMINSB-AG9-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-52" value="Activity : Standing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

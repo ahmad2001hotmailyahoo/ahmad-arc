@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T06:16:13.893Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mnTz7jrTOcny3V8YtYXS" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T06:16:50.811Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="duqDKAQ0MwMuA044W2zt" version="20.6.0" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-30" value="request send to cloud:" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iHwCMbIsZpmqP9hue2eX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-32" target="iHwCMbIsZpmqP9hue2eX-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-32" value="The request contains&lt;br&gt;1) frames&amp;nbsp;&lt;br&gt;2) activity standing" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="260" width="120" height="65" as="geometry" />

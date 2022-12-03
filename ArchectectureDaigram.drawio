@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T05:07:42.527Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="1Tr8Hpdzmf4rxwm0JdkE" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T05:08:05.295Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="4ZEdr4vd9whqcyC6NMCQ" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,13 @@
         <mxCell id="pqNPjAefA5oMINSB-AG9-17" value="Audio Output: No human detected.&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="190" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-19" value="Go for another input" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

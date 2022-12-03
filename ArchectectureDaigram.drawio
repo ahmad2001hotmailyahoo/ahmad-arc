@@ -1,10 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T05:27:06.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="_uvFANAo1Rr8ylSkU21w" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T05:30:53.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="-2MuwhghgOYQgpzxoALt" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pqNPjAefA5oMINSB-AG9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-3" target="pqNPjAefA5oMINSB-AG9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-3" target="pqNPjAefA5oMINSB-AG9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-3" target="pqNPjAefA5oMINSB-AG9-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-3" value="Speech to text conversion:&lt;br&gt;&amp;nbsp;is someone standing" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -108,6 +114,9 @@
         </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-42" value="&lt;b&gt;MOBILE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-46" value="NLP Applied" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

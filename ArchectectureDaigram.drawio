@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T05:04:53.873Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="LTMgBeLX1dOLk1du49wD" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T05:07:42.527Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="1Tr8Hpdzmf4rxwm0JdkE" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,26 @@
         <mxCell id="pqNPjAefA5oMINSB-AG9-9" value="Vido Capture From Mobile" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-11" target="pqNPjAefA5oMINSB-AG9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pqNPjAefA5oMINSB-AG9-11" value="Detection of human" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-15" target="pqNPjAefA5oMINSB-AG9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-15" value="if detected" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pqNPjAefA5oMINSB-AG9-17" target="pqNPjAefA5oMINSB-AG9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-17" value="Audio Output: No human detected.&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pqNPjAefA5oMINSB-AG9-19" value="Go for another input" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

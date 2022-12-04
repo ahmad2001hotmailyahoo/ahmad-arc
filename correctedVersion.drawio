@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T14:38:44.683Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="pFSeIGmiYEi3IV8RavkO" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T14:45:14.710Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="_22ZDB-1ZyP2e7JvgO_3" type="github">
   <diagram id="6PFbAuHgj58o0avcOWnN" name="Page-1">
     <mxGraphModel dx="749" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,16 +94,10 @@
         <mxCell id="Me2NOcTc4nS9r90vQrdN-31" value="&lt;b&gt;Cloud&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Me2NOcTc4nS9r90vQrdN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Me2NOcTc4nS9r90vQrdN-32" target="Me2NOcTc4nS9r90vQrdN-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Me2NOcTc4nS9r90vQrdN-32" value="Model Training" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Me2NOcTc4nS9r90vQrdN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Me2NOcTc4nS9r90vQrdN-33" target="Me2NOcTc4nS9r90vQrdN-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Me2NOcTc4nS9r90vQrdN-33" value="Apply Modeling" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Me2NOcTc4nS9r90vQrdN-33" value="Pretained model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Me2NOcTc4nS9r90vQrdN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Me2NOcTc4nS9r90vQrdN-35" target="Me2NOcTc4nS9r90vQrdN-38">

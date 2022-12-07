@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T15:21:42.431Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oBbtFu32wNTpksJ-mO7C" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T15:23:36.378Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PpGOSTDYP2N52UoaP6CU" version="20.6.0" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,34 @@
           <mxGeometry x="80" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oqH2r3hoesfP-rXsv06T-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="30" width="270" height="430" as="geometry" />
+          <mxGeometry x="270" y="20" width="270" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oqH2r3hoesfP-rXsv06T-2" target="oqH2r3hoesfP-rXsv06T-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-2" value="ask which activities are performed in surrounding" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oqH2r3hoesfP-rXsv06T-3" target="oqH2r3hoesfP-rXsv06T-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-3" value="NLP Applied" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oqH2r3hoesfP-rXsv06T-5" target="oqH2r3hoesfP-rXsv06T-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-5" value="Person Detection" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oqH2r3hoesfP-rXsv06T-7" target="oqH2r3hoesfP-rXsv06T-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-7" value="Pose detection" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oqH2r3hoesfP-rXsv06T-9" value="activity recognization" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

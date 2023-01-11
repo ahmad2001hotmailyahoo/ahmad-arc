@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T03:51:54.175Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3Meuen0erF89VbLMrRgT" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T03:52:07.706Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NAXPTpM2nL8pc8DR7s6u" version="20.6.2" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,7 +194,12 @@
           <mxGeometry x="590" y="252.5" width="150" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="MW-CEzoa_YtHXwionk4b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iHwCMbIsZpmqP9hue2eX-20" target="MW-CEzoa_YtHXwionk4b-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665" y="478" />
+              <mxPoint x="666" y="478" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iHwCMbIsZpmqP9hue2eX-20" value="Apply Model Volvo V7" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="622.5" y="420" width="85" height="36.25" as="geometry" />

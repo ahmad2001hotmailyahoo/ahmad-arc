@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T06:51:38.240Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="5MqZ8F_YlwmG1_KNUUmW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-11T06:52:05.670Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="ldqL_RWkb2B_aU3mvHry" type="github">
   <diagram id="L39YCSrSmgS5nI6QtHGn" name="Page-1">
     <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,8 +144,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A4QvI4MU_TdA6Vv6nNB_-50" value="Pose Recogniztion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="425" width="120" height="30" as="geometry" />
+        <mxCell id="A4QvI4MU_TdA6Vv6nNB_-50" value="Pose Estimation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="425" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A4QvI4MU_TdA6Vv6nNB_-51" value="Actitivtiy Recognization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="140" height="30" as="geometry" />

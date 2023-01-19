@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T03:58:40.362Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dv-v8nRiiTODQ7CY6oPY" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T05:54:28.037Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="o-ajKu1BOJ0LGcW_1rt4" version="20.8.5" type="github">
   <diagram id="XCMzGgHCzQoK7Uut5_Kw" name="Page-1">
-    <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
         <mxCell id="iHwCMbIsZpmqP9hue2eX-15" value="if required accuracy acieved" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="252.5" width="150" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="MW-CEzoa_YtHXwionk4b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iHwCMbIsZpmqP9hue2eX-20" target="MW-CEzoa_YtHXwionk4b-1">
+        <mxCell id="MW-CEzoa_YtHXwionk4b-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iHwCMbIsZpmqP9hue2eX-20" target="MW-CEzoa_YtHXwionk4b-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="665" y="478" />
@@ -272,11 +272,17 @@
         <mxCell id="iHwCMbIsZpmqP9hue2eX-50" value="&lt;span&gt;Architecture&lt;/span&gt;&amp;nbsp;diagram for human pose estimation for blind app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="780" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MW-CEzoa_YtHXwionk4b-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MW-CEzoa_YtHXwionk4b-1" target="iHwCMbIsZpmqP9hue2eX-33">
+        <mxCell id="MW-CEzoa_YtHXwionk4b-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MW-CEzoa_YtHXwionk4b-1" target="iHwCMbIsZpmqP9hue2eX-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MW-CEzoa_YtHXwionk4b-1" value="Pose Recognization: Key Points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MW-CEzoa_YtHXwionk4b-1" value="Pose Recognization: Key Points" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="500" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nHaMhxyl6bQVLQvb9Vho-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHaMhxyl6bQVLQvb9Vho-1" target="pqNPjAefA5oMINSB-AG9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHaMhxyl6bQVLQvb9Vho-1" value="Vedio Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

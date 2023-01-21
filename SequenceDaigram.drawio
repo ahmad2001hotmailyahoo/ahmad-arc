@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T07:19:04.274Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="0jL_Phr6V37lb0Q7Bg8u" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T07:23:32.481Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fj97qXaXlC79w0a_yIlT" version="20.8.5" type="github">
   <diagram id="L39YCSrSmgS5nI6QtHGn" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,8 +111,8 @@
         <mxCell id="A4QvI4MU_TdA6Vv6nNB_-55" value="Text Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="585" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A4QvI4MU_TdA6Vv6nNB_-59" value="Voice Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="610" width="100" height="30" as="geometry" />
+        <mxCell id="A4QvI4MU_TdA6Vv6nNB_-59" value="Text to speech conversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="610" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpYJhnQgzotlwshMO1Oq-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-249.99" y="417.51" width="579.37" height="31.88" as="geometry" />
@@ -194,6 +194,9 @@
             <mxPoint x="390" y="590" as="sourcePoint" />
             <mxPoint x="60" y="640" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2kZp6YiWD2BQuV8LMznV-18" value="speech to text conversion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

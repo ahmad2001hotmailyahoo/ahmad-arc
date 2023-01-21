@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T07:23:32.481Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fj97qXaXlC79w0a_yIlT" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-21T07:24:05.590Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="nVn57A4fQC350a1mlmNP" version="20.8.5" type="github">
   <diagram id="L39YCSrSmgS5nI6QtHGn" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
             <mxPoint x="140" y="159" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpYJhnQgzotlwshMO1Oq-7" value="Recording Audio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LpYJhnQgzotlwshMO1Oq-7" value="Voice input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2kZp6YiWD2BQuV8LMznV-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">

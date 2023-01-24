@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T10:09:48.560Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mZ44-PRND6u6lhgUl5fY" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T10:11:00.383Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="sTcptai4hyGcDl7qLPod" version="20.8.10" type="github">
   <diagram id="OCqCQdXeEL5Mf1G6AGTt" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,16 +115,15 @@
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-104" value="&lt;span&gt;Architecture&lt;/span&gt;&amp;nbsp;diagram for human pose estimation for blind app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="460" width="450" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-108" target="6_aQ4a8qMIjO6TrSS2Ve-44" edge="1">
+        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-108" target="6_aQ4a8qMIjO6TrSS2Ve-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="170" />
-              <mxPoint x="150" y="170" />
+              <mxPoint x="55" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-108" value="Vedio Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="155" width="110" height="30" as="geometry" />
+          <mxGeometry y="175" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-112" value="Pose detection: Key Points detection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="95" width="120" height="60" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T10:04:49.955Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7QF9hP2ZI-Eld9znUqBB" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T10:08:05.032Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SGyL1iOV1NOxEHZt94vg" version="20.8.10" type="github">
   <diagram id="OCqCQdXeEL5Mf1G6AGTt" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,23 +17,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-44" value="Vido Capture From Mobile" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-46" value="Detection of human" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-109" target="6_aQ4a8qMIjO6TrSS2Ve-58" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="390" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-46" value="Frames Extraction" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="4n135fqJWAeGchxSVue9-2" target="6_aQ4a8qMIjO6TrSS2Ve-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="410" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-58" value="selection of frames" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="325" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6_aQ4a8qMIjO6TrSS2Ve-62" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -130,22 +122,18 @@
           <mxGeometry x="160" y="460" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-108" target="6_aQ4a8qMIjO6TrSS2Ve-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="170" />
+              <mxPoint x="150" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-108" value="Vedio Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="155" width="110" height="30" as="geometry" />
+          <mxGeometry y="155" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-112" value="Pose detection: Key Points detection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="95" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4n135fqJWAeGchxSVue9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-46" target="6_aQ4a8qMIjO6TrSS2Ve-109">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="280" as="targetPoint" />
-            <mxPoint x="220" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-109" value="Formation of Frames" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4n135fqJWAeGchxSVue9-2" value="Text To speech Vonversion" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
@@ -163,12 +151,12 @@
           <mxGeometry x="380" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4n135fqJWAeGchxSVue9-5" value="Intent Classification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="115" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4n135fqJWAeGchxSVue9-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-40" target="4n135fqJWAeGchxSVue9-5">
+        <mxCell id="4n135fqJWAeGchxSVue9-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="280" as="sourcePoint" />
-            <mxPoint x="440" y="230" as="targetPoint" />
+            <mxPoint x="218" y="80" as="sourcePoint" />
+            <mxPoint x="218" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4n135fqJWAeGchxSVue9-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4n135fqJWAeGchxSVue9-5" target="6_aQ4a8qMIjO6TrSS2Ve-62">
@@ -176,7 +164,7 @@
             <mxPoint x="390" y="280" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="110" />
+              <mxPoint x="430" y="135" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T10:08:28.907Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="z6gs_lgxO4nHY0y-5BTr" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T10:09:48.560Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mZ44-PRND6u6lhgUl5fY" version="20.8.10" type="github">
   <diagram id="OCqCQdXeEL5Mf1G6AGTt" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,15 +28,6 @@
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="4n135fqJWAeGchxSVue9-2" target="6_aQ4a8qMIjO6TrSS2Ve-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="410" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6_aQ4a8qMIjO6TrSS2Ve-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="380" />
-              <mxPoint x="430" y="380" />
-            </Array>
-            <mxPoint x="280" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-62" edge="1" target="6_aQ4a8qMIjO6TrSS2Ve-112">
@@ -138,7 +129,7 @@
         <mxCell id="6_aQ4a8qMIjO6TrSS2Ve-112" value="Pose detection: Key Points detection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="95" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4n135fqJWAeGchxSVue9-2" value="Text To speech Vonversion" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4n135fqJWAeGchxSVue9-2" value="Text To speech Conversion" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4n135fqJWAeGchxSVue9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6_aQ4a8qMIjO6TrSS2Ve-92" target="4n135fqJWAeGchxSVue9-2">

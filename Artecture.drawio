@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T14:56:02.558Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.3" etag="sSb7DviXv1liXQXcsjsq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T14:57:11.080Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.3" etag="w3Pi6972PDDYLrFQnEDx" type="github">
   <diagram id="JwcadMRwFu3yK7qmQVH_" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,26 @@
         <mxCell id="bmp9sgnXweDHO-T-YPHY-5" value="Natural Language Gernation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="35" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmp9sgnXweDHO-T-YPHY-7" target="bmp9sgnXweDHO-T-YPHY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bmp9sgnXweDHO-T-YPHY-7" value="Intent Classification" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmp9sgnXweDHO-T-YPHY-9" target="bmp9sgnXweDHO-T-YPHY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-9" value="Human Detection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmp9sgnXweDHO-T-YPHY-11" target="bmp9sgnXweDHO-T-YPHY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-11" value="Pose Detection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-13" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="455" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

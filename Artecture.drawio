@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T14:58:15.979Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.3" etag="_-q_wa2NiYBJEebWCo0E" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T14:59:06.801Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.3" etag="niOmRIoWgNJ4pNiYimj5" type="github">
   <diagram id="JwcadMRwFu3yK7qmQVH_" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,21 @@
         </mxCell>
         <mxCell id="bmp9sgnXweDHO-T-YPHY-13" value="Activity Detection" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmp9sgnXweDHO-T-YPHY-15" target="bmp9sgnXweDHO-T-YPHY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-15" value="Video Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmp9sgnXweDHO-T-YPHY-16" target="bmp9sgnXweDHO-T-YPHY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-16" value="Camera" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmp9sgnXweDHO-T-YPHY-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="175" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T13:31:30.171Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9EXorWB5HT3WfqcLHhu8" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T13:31:49.484Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZuiO7iPWqSkyOoB-Q9Ih" version="20.8.17" type="github">
   <diagram id="N-40P0ZU63dNKIUNeumF" name="Page-1">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,6 +190,9 @@
         </mxCell>
         <mxCell id="px62wDHQfPJyt1eoFrsY-1" value="Device" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="px62wDHQfPJyt1eoFrsY-2" value="Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

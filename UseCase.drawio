@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T13:48:17.908Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aKmEyfjEoeorWctBQ6n5" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T13:48:31.359Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sqE4s86IlCP0w2ETMkO1" version="20.8.17" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="806" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oqH2r3hoesfP-rXsv06T-5" value="Human Detection" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="485" y="215" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oqH2r3hoesfP-rXsv06T-7" value="Pose recognization" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="280" width="120" height="40" as="geometry" />
@@ -78,6 +78,9 @@
             <mxPoint x="400" y="290" as="sourcePoint" />
             <mxPoint x="450" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_L6sqoVfj-dottWTr9gs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oqH2r3hoesfP-rXsv06T-5" target="oqH2r3hoesfP-rXsv06T-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
